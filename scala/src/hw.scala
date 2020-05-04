@@ -4,6 +4,6 @@ object test {
   }
 
   def hw(): Unit ={
-    print("hello world")
+    print("hello scala")
   }
 }
