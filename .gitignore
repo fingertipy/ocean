@@ -1,0 +1,6 @@
+# Project exclude paths
+/java/target/
+/out/
+.idea
+*.iml
+python/survey/__pycache__
